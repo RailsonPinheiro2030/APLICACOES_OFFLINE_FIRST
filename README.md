@@ -63,22 +63,22 @@
 
 ## Aplicações que disponibilizam funcionalidades Offline-First existentes no mercado.
 
-    ⚡️ Trello.
-        O Trello é uma plataforma de gerenciamento de projetos que permite aos usuários criar quadros, listas e cartões para organizar suas tarefas.
-        Ele oferece uma experiência offline-first, permitindo que os usuários acessem e atualizem seus quadros e tarefas mesmo quando estão sem conexão.  
+⚡️ Trello.
+O Trello é uma plataforma de gerenciamento de projetos que permite aos usuários criar quadros, listas e cartões para organizar suas tarefas.
+Ele oferece uma experiência offline-first, permitindo que os usuários acessem e atualizem seus quadros e tarefas mesmo quando estão sem conexão.  
 
-    📝 Evernote. 
-        O Evernote é um aplicativo de anotações e organização pessoal. Ele permite que os usuários criem, editem e sincronizem suas anotações em vários dispositivos. 
-        Com a funcionalidade offline-first, os usuários podem acessar suas anotações mesmo quando não estão conectados à internet.
+📝 Evernote. 
+O Evernote é um aplicativo de anotações e organização pessoal. Ele permite que os usuários criem, editem e sincronizem suas anotações em vários dispositivos. 
+Com a funcionalidade offline-first, os usuários podem acessar suas anotações mesmo quando não estão conectados à internet.
 
-    📚 Pocket.
-        O Pocket é uma ferramenta de salvamento de artigos e conteúdos para leitura posterior. Ele permite que os usuários salvem conteúdo online, como artigos, vídeos e páginas da web, para acessar offline mais tarde. Com o modo offline-first, os usuários podem aproveitar seu conteúdo salvo mesmo quando estão desconectados. 
+📚 Pocket.
+O Pocket é uma ferramenta de salvamento de artigos e conteúdos para leitura posterior. Ele permite que os usuários salvem conteúdo online, como artigos, vídeos e páginas da web, para acessar offline mais tarde. Com o modo offline-first, os usuários podem aproveitar seu conteúdo salvo mesmo quando estão desconectados. 
 
-    📂 Google Drive.
-        O Google Drive é um serviço de armazenamento em nuvem que oferece recursos offline-first. Ele permite que os usuários acessem, editem e compartilhem seus arquivos e documentos, mesmo quando estão sem conexão. As alterações são sincronizadas automaticamente quando a internet está disponível novamente.
+📂 Google Drive.
+O Google Drive é um serviço de armazenamento em nuvem que oferece recursos offline-first. Ele permite que os usuários acessem, editem e compartilhem seus arquivos e documentos, mesmo quando estão sem conexão. As alterações são sincronizadas automaticamente quando a internet está disponível novamente.
 
-    🎵 Spotify.
-        O Spotify é um serviço de streaming de música que também oferece recursos offline-first. Os usuários podem salvar suas músicas, playlists e podcasts favoritos para ouvir offline, mesmo quando não têm conexão com a internet. Isso permite que os usuários desfrutem de sua música sem interrupções, mesmo em ambientes sem conectividade.
+🎵 Spotify.
+O Spotify é um serviço de streaming de música que também oferece recursos offline-first. Os usuários podem salvar suas músicas, playlists e podcasts favoritos para ouvir offline, mesmo quando não têm conexão com a internet. Isso permite que os usuários desfrutem de sua música sem interrupções, mesmo em ambientes sem conectividade.
 
 
 
